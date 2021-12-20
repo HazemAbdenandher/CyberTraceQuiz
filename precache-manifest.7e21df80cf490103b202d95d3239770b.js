@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8b101bb5a63606645e992f7ac419493",
+    "revision": "f0a8d40a648542f1a081bc26f6e05fd1",
     "url": "/CyberTraceQuiz/index.html"
   },
   {
-    "revision": "ebfa619c350fe057d0b1",
-    "url": "/CyberTraceQuiz/static/css/main.2093f41b.chunk.css"
+    "revision": "7f212a1161b96aeb7e0e",
+    "url": "/CyberTraceQuiz/static/css/main.68710fb0.chunk.css"
   },
   {
     "revision": "63909c33de8d448a3bde",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CyberTraceQuiz/static/js/2.ad85345e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebfa619c350fe057d0b1",
+    "revision": "7f212a1161b96aeb7e0e",
     "url": "/CyberTraceQuiz/static/js/main.71bb7d47.chunk.js"
   },
   {
