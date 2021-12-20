@@ -13,13 +13,13 @@ function App() {
       <Header />
       <AnimatePresence exitBeforeEnter >
         <Switch location = {location} key={location.key}>
-          <Route path="/result">
+          <Route path="/CyberTraceQuiz/result">
             <Result/>
           </Route>
-          <Route path="/quiz">
+          <Route path="/CyberTraceQuiz/quiz">
             <Quiz />
           </Route>
-          <Route path="/">
+          <Route path="/CyberTraceQuiz">
             <Home />
           </Route>
         </Switch>

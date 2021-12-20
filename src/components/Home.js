@@ -49,7 +49,7 @@ const Home = () => {
         Ready to start ?
       </motion.h2>
 
-        <Link to="/Quiz">
+        <Link to="/CyberTraceQuiz/Quiz">
           <motion.button
           variants={buttonVariants}
           initial="hidden"

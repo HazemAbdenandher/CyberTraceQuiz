@@ -56,7 +56,7 @@ const Result = () => {
                 <h2>You got {score} out of {length} </h2>
             </motion.div>
 
-            <Link to="/home">
+            <Link to="/CyberTraceQuiz">
                 <motion.button
                 variants={buttonVariants}
                 initial="hidden"
