@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "question" : "What does HTML stand for ?",
+        "A" :"Hyper Tag Markup Language",
+        "B" : "Hyper Text Markup Language" ,
+        "C" : "Hyperlinks Text Mark Language",
+        "ANSWER" : 2
+    },
+    {
+        "id":2,
+        "question" : "Which of these is a genuine tag keyword ?",
+        "A" :"Header",
+        "B" : "Bold" ,
+        "C" : "Body",
+        "ANSWER" : 3
+    },
+    {
+        "id":3,
+        "question" : "What is the correct tag for a line break ?",
+        "A" :"<brk/>",
+        "B" : "<line/>" ,
+        "C" : "<br/>",
+        "ANSWER" : 3
+    },
+    {
+        "id":4,
+        "question" : "What does CSS stand for ?",
+        "A" :"Computing Style Sheet",
+        "B" : "Creative Style System" ,
+        "C" : "Cascading Style Sheet",
+        "ANSWER" : 3
+    }
+
+
+]
