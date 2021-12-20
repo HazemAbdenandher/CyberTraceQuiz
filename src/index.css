@@ -24,7 +24,7 @@ div {
   margin: 0;
   padding: 0;
   color: #232323;
-  font-family: "Quicksand";
+  font-family: "Quicksand", sans-serif;
   letter-spacing: 2px;
   list-style-type: none;
   text-decoration: none;

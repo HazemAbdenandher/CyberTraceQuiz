@@ -43,9 +43,9 @@ const Quiz = () => {
 
     const lastCheck=()=>{
         if (answer===data[index].ANSWER) {
-            history.push("/result",{state:{length:data.length,score:score+1}})
+            history.push("/CyberTraceQuiz/result",{state:{length:data.length,score:score+1}})
         }else{
-        history.push("/result",{state:{length:data.length,score:score}})
+        history.push("/CyberTraceQuiz/result",{state:{length:data.length,score:score}})
     }}
 
     return (
