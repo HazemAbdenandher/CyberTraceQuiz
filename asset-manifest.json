@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CyberTraceQuiz/static/css/main.68710fb0.chunk.css",
-    "main.js": "/CyberTraceQuiz/static/js/main.5280539a.chunk.js",
-    "main.js.map": "/CyberTraceQuiz/static/js/main.5280539a.chunk.js.map",
+    "main.css": "/CyberTraceQuiz/static/css/main.51d0550a.chunk.css",
+    "main.js": "/CyberTraceQuiz/static/js/main.f8e8c991.chunk.js",
+    "main.js.map": "/CyberTraceQuiz/static/js/main.f8e8c991.chunk.js.map",
     "runtime-main.js": "/CyberTraceQuiz/static/js/runtime-main.d6bceb6c.js",
     "runtime-main.js.map": "/CyberTraceQuiz/static/js/runtime-main.d6bceb6c.js.map",
     "static/js/2.ad85345e.chunk.js": "/CyberTraceQuiz/static/js/2.ad85345e.chunk.js",
     "static/js/2.ad85345e.chunk.js.map": "/CyberTraceQuiz/static/js/2.ad85345e.chunk.js.map",
     "index.html": "/CyberTraceQuiz/index.html",
-    "precache-manifest.f5c7dd791e417fcc365512ccf61a7677.js": "/CyberTraceQuiz/precache-manifest.f5c7dd791e417fcc365512ccf61a7677.js",
+    "precache-manifest.8eca6f813d35171b10f0b79fbd99c280.js": "/CyberTraceQuiz/precache-manifest.8eca6f813d35171b10f0b79fbd99c280.js",
     "service-worker.js": "/CyberTraceQuiz/service-worker.js",
-    "static/css/main.68710fb0.chunk.css.map": "/CyberTraceQuiz/static/css/main.68710fb0.chunk.css.map",
+    "static/css/main.51d0550a.chunk.css.map": "/CyberTraceQuiz/static/css/main.51d0550a.chunk.css.map",
     "static/js/2.ad85345e.chunk.js.LICENSE.txt": "/CyberTraceQuiz/static/js/2.ad85345e.chunk.js.LICENSE.txt",
     "static/media/crown.png": "/CyberTraceQuiz/static/media/crown.35b27375.png",
     "static/media/logo.png": "/CyberTraceQuiz/static/media/logo.39e41cea.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.d6bceb6c.js",
     "static/js/2.ad85345e.chunk.js",
-    "static/css/main.68710fb0.chunk.css",
-    "static/js/main.5280539a.chunk.js"
+    "static/css/main.51d0550a.chunk.css",
+    "static/js/main.f8e8c991.chunk.js"
   ]
 }

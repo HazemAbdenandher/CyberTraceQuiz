@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CyberTraceQuiz/precache-manifest.f5c7dd791e417fcc365512ccf61a7677.js"
+  "/CyberTraceQuiz/precache-manifest.8eca6f813d35171b10f0b79fbd99c280.js"
 );
 
 self.addEventListener('message', (event) => {
